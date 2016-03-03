@@ -1,4 +1,5 @@
 ### 2016-03-03<br>
++ [一键收藏至Github - 简书](http://www.jianshu.com/p/19d2f3a3b5d8)<br>
 + [MediumArticles](http://localhost:3000/index)<br>
 + [frogermcs/GithubClient: Example of Github API client implemented on top of Dagger 2 DI framework.](https://github.com/frogermcs/GithubClient)<br>
 + [Dependency injection with Dagger 2 - Custom scopes – froger_mcs dev blog – Coding with love {❤️}](http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/)<br>
