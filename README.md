@@ -1,4 +1,5 @@
 ### 2016-03-04<br>
++ [【新提醒】浅析Android的窗口 - 技术分享 - Bugly - Powered by Bugly!](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=555)<br>
 + [New Tab](chrome-extension://laookkfknpbbblfpciffpaejjkokdgca/dashboard.html)<br>
 
 ### 2016-03-03<br>
