@@ -1,4 +1,5 @@
 ### 2016-03-04<br>
++ [编程狂人 - 推酷技术周刊](http://www.tuicool.com/mags)<br>
 + [Android App 线上热修复方案 | lirenlong.github.io](http://lirenlong.github.io/hotfix/)<br>
 + [安卓App热补丁动态修复技术介绍 - MAGI的专栏 - 知乎专栏](http://zhuanlan.zhihu.com/magilu/20308548)<br>
 + [Android插件化原理解析——Hook机制之动态代理 - 简书](http://www.jianshu.com/p/b30ea19c444b)<br>
