@@ -1,4 +1,5 @@
 ### 2016-03-04<br>
++ [安卓App热补丁动态修复技术介绍 - MAGI的专栏 - 知乎专栏](http://zhuanlan.zhihu.com/magilu/20308548)<br>
 + [Android插件化原理解析——Hook机制之动态代理 - 简书](http://www.jianshu.com/p/b30ea19c444b)<br>
 + [【新提醒】浅析Android的窗口 - 技术分享 - Bugly - Powered by Bugly!](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=555)<br>
 + [New Tab](chrome-extension://laookkfknpbbblfpciffpaejjkokdgca/dashboard.html)<br>
