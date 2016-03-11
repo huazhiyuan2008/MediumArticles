@@ -1,4 +1,5 @@
 ### 2016-03-11<br>
++ [用机器学习检测Android恶意代码 | WooYun知识库](http://drops.wooyun.org/mobile/13428?utm_source=tuicool&utm_medium=referral)<br>
 + [tiann/understand-plugin-framework: demos to help understand plugin framwrok](https://github.com/tiann/understand-plugin-framework)<br>
 + [Android插件化原理解析——Hook机制之Binder Hook | Weishu's Notes](http://weishu.me/2016/02/16/understand-plugin-framework-binder-hook/)<br>
 
