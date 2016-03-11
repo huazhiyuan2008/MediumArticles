@@ -1,4 +1,5 @@
 ### 2016-03-11<br>
++ [NetEase/Emmagee: Android performance test tool-CPU,memory,network traffic,starting time,battery current and status](https://github.com/NetEase/Emmagee)<br>
 + [对无线电商动态化方案的思考（三） · Issue #15 · amfe/article](https://github.com/amfe/article/issues/15#issuecomment-157760066)<br>
 + [对无线电商动态化方案的思考（二） · Issue #14 · amfe/article](https://github.com/amfe/article/issues/14)<br>
 + [对无线电商动态化方案的思考（一） · Issue #13 · amfe/article](https://github.com/amfe/article/issues/13)<br>
