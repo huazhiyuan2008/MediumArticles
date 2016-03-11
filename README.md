@@ -1,4 +1,5 @@
 ### 2016-03-11<br>
++ [对无线电商动态化方案的思考（三） · Issue #15 · amfe/article](https://github.com/amfe/article/issues/15#issuecomment-157760066)<br>
 + [对无线电商动态化方案的思考（二） · Issue #14 · amfe/article](https://github.com/amfe/article/issues/14)<br>
 + [对无线电商动态化方案的思考（一） · Issue #13 · amfe/article](https://github.com/amfe/article/issues/13)<br>
 + [如何看待阿里无线前端发布的Weex? - 知乎](https://www.zhihu.com/question/37636296)<br>
