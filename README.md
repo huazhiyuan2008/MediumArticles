@@ -1,3 +1,7 @@
+### 2016-03-11<br>
++ [tiann/understand-plugin-framework: demos to help understand plugin framwrok](https://github.com/tiann/understand-plugin-framework)<br>
++ [Android插件化原理解析——Hook机制之Binder Hook | Weishu's Notes](http://weishu.me/2016/02/16/understand-plugin-framework-binder-hook/)<br>
+
 ### 2016-03-04<br>
 + [Small/Android at master · wequick/Small](https://github.com/wequick/Small/tree/master/Android)<br>
 + [编程狂人 - 推酷技术周刊](http://www.tuicool.com/mags)<br>
