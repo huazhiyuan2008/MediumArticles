@@ -1,4 +1,8 @@
+### 2016-03-14<br>
++ [深入理解Android（三）：Xposed详解](http://www.infoq.com/cn/articles/android-in-depth-xposed?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)<br>
+
 ### 2016-03-11<br>
++ [各大互联网公司架构演进之路汇总-HollisChuang's Blog](http://www.hollischuang.com/archives/1036)<br>
 + [NetEase/Emmagee: Android performance test tool-CPU,memory,network traffic,starting time,battery current and status](https://github.com/NetEase/Emmagee)<br>
 + [对无线电商动态化方案的思考（三） · Issue #15 · amfe/article](https://github.com/amfe/article/issues/15#issuecomment-157760066)<br>
 + [对无线电商动态化方案的思考（二） · Issue #14 · amfe/article](https://github.com/amfe/article/issues/14)<br>
