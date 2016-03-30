@@ -1,3 +1,6 @@
+### 2016-03-31<br>
++ [ele828/react-native-guide: React Native指南汇集了各类react-native学习资源、开源App和组件](https://github.com/ele828/react-native-guide)<br>
+
 ### 2016-03-18<br>
 + [[#ANYDDHJ-2211] 【商城】通过奖励说明界面进入商城界面，上方有两个标题 - Your Company JIRA](http://jira.yeshj.com/browse/ANYDDHJ-2211)<br>
 + [[#ANYDDHJ-2211] 【商城】通过奖励说明界面进入商城界面，上方有两个标题 - Your Company JIRA](http://jira.yeshj.com/browse/ANYDDHJ-2211)<br>
