@@ -1,3 +1,6 @@
+### 2016-04-08<br>
++ [正确使用Android性能分析工具——TraceView | Android Notes](http://bxbxbai.github.io/2014/10/25/use-trace-view/)<br>
+
 ### 2016-04-02<br>
 + [H5、React Native、Native应用对比分析 - vczero的个人空间 - 开源中国社区](http://my.oschina.net/vczero/blog/597980?fromerr=s2CoLPvF)<br>
 
