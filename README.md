@@ -1,3 +1,6 @@
+### 2016-04-12<br>
++ [Start Developing iOS Apps (Swift): Build a Basic UI](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)<br>
+
 ### 2016-04-08<br>
 + [正确使用Android性能分析工具——TraceView | Android Notes](http://bxbxbai.github.io/2014/10/25/use-trace-view/)<br>
 
