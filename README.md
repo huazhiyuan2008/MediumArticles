@@ -1,3 +1,6 @@
+### 2016-04-15<br>
++ [Android Bitmap面面观 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0329/4101.html)<br>
+
 ### 2016-04-12<br>
 + [Start Developing iOS Apps (Swift): Build a Basic UI](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)<br>
 
