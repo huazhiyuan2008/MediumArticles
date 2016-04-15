@@ -1,4 +1,5 @@
 ### 2016-04-15<br>
++ [React-Native-Remote-Update - 使用React-Native实现app热更新的一次实践 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1451828463136.html)<br>
 + [Android Bitmap面面观 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0329/4101.html)<br>
 
 ### 2016-04-12<br>
