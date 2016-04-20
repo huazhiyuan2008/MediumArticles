@@ -1,3 +1,6 @@
+### 2016-04-21<br>
++ [React-Native 实现增量热更新的思路(1) - 简书](http://www.jianshu.com/p/2cb3eb9604ca)<br>
+
 ### 2016-04-20<br>
 + [React-Native之Android:封装原生UI组件 - 简书](http://www.jianshu.com/p/f26d994ea765)<br>
 + [React native for Android 初步实践-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/2757#)<br>
