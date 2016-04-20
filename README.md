@@ -1,4 +1,5 @@
 ### 2016-04-21<br>
++ [(1)ReactNative增量升级方案 - react-native - SegmentFault](https://segmentfault.com/a/1190000004352162)<br>
 + [React-Native 实现增量热更新的思路(1) - 简书](http://www.jianshu.com/p/2cb3eb9604ca)<br>
 
 ### 2016-04-20<br>
