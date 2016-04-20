@@ -1,3 +1,6 @@
+### 2016-04-20<br>
++ [Android React Native使用原生模块 - 安卓弟的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sbsujjbcy/article/details/49953041)<br>
+
 ### 2016-04-17<br>
 + [Issues · nick/react-native-carousel](https://github.com/nick/react-native-carousel/issues)<br>
 
