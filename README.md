@@ -1,3 +1,6 @@
+### 2016-04-26<br>
++ [React Native 动画 - 简书](http://www.jianshu.com/p/64f6c94b2d83)<br>
+
 ### 2016-04-22<br>
 + [H5、React Native、Native应用对比分析](http://vczero.github.io/react_native/H5-React-Native-Native.html)<br>
 
