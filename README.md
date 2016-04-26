@@ -1,4 +1,5 @@
 ### 2016-04-26<br>
++ [Supporting Multiple Screens | Android Developers](http://developer.android.com/intl/zh-cn/guide/practices/screens_support.html)<br>
 + [React Native 动画 - 简书](http://www.jianshu.com/p/64f6c94b2d83)<br>
 
 ### 2016-04-22<br>
