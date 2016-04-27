@@ -1,3 +1,6 @@
+### 2016-04-27<br>
++ [React Native 中组件的生命周期](http://www.race604.com/react-native-component-lifecycle/)<br>
+
 ### 2016-04-26<br>
 + [Supporting Multiple Screens | Android Developers](http://developer.android.com/intl/zh-cn/guide/practices/screens_support.html)<br>
 + [React Native 动画 - 简书](http://www.jianshu.com/p/64f6c94b2d83)<br>
