@@ -1,3 +1,6 @@
+### 2016-05-02<br>
++ [Android动态加载补充 加载SD卡中的SO库 - 中二病也要开发ANDROID - SegmentFault](https://segmentfault.com/a/1190000004062899)<br>
+
 ### 2016-04-30<br>
 + [Material Design系列之 全新的动画 | Cooper Blog](http://naotou.github.io/2014-07-03/material-design-01/)<br>
 
