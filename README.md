@@ -1,3 +1,6 @@
+### 2016-05-04<br>
++ [Hexo优化之使用Google Prettify高亮代码 | 柳志超博客](https://liuzhichao.com/2016/hexo-use-prettify-to-highlight-code.html)<br>
+
 ### 2016-05-02<br>
 + [探索react native首屏渲染最佳实践 - WEB前端 - 伯乐在线](http://web.jobbole.com/85451/)<br>
 + [React 源码剖析系列 － 解密 setState - WEB前端 - 伯乐在线](http://web.jobbole.com/84306/)<br>
