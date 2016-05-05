@@ -1,4 +1,5 @@
 ### 2016-05-05<br>
++ [使用Gradle管理你的Android Studio工程 | 飞雪无情的博客](http://www.flysnow.org/2015/03/30/manage-your-android-project-with-gradle.html)<br>
 + [View的事件基础知识](http://leoray.leanote.com/post/view-event-basic)<br>
 
 ### 2016-05-04<br>
