@@ -1,3 +1,6 @@
+### 2016-05-05<br>
++ [View的事件基础知识](http://leoray.leanote.com/post/view-event-basic)<br>
+
 ### 2016-05-04<br>
 + [Hexo优化之使用Google Prettify高亮代码 | 柳志超博客](https://liuzhichao.com/2016/hexo-use-prettify-to-highlight-code.html)<br>
 
