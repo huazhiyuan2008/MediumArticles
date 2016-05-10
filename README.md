@@ -1,3 +1,6 @@
+### 2016-05-10<br>
++ [React Native 性能优化建议 | Hugo Web前端开发](http://www.ghugo.com/react-native-high-performance/)<br>
+
 ### 2016-05-05<br>
 + [使用Gradle管理你的Android Studio工程 | 飞雪无情的博客](http://www.flysnow.org/2015/03/30/manage-your-android-project-with-gradle.html)<br>
 + [View的事件基础知识](http://leoray.leanote.com/post/view-event-basic)<br>
