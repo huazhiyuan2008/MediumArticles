@@ -1,3 +1,6 @@
+### 2016-05-14<br>
++ [高斯模糊效果实现方案及性能对比 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0831/3389.html)<br>
+
 ### 2016-05-10<br>
 + [ViewDragHelper详解 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0911/1680.html)<br>
 + [React Native 性能优化建议 | Hugo Web前端开发](http://www.ghugo.com/react-native-high-performance/)<br>
