@@ -1,3 +1,6 @@
+### 2016-05-17<br>
++ [ViewPager刷新问题详解 - 简书](http://www.jianshu.com/p/266861496508#)<br>
+
 ### 2016-05-14<br>
 + [高斯模糊效果实现方案及性能对比 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0831/3389.html)<br>
 
