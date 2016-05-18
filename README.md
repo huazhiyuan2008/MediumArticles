@@ -1,3 +1,6 @@
+### 2016-05-18<br>
++ [关于RecyclerView滑动速度和抛掷速度的控制和改变 - 简书](http://www.jianshu.com/p/f579999723ca)<br>
+
 ### 2016-05-17<br>
 + [ViewPager刷新问题详解 - 简书](http://www.jianshu.com/p/266861496508#)<br>
 
