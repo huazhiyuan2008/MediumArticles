@@ -1,3 +1,6 @@
+### 2016-05-24<br>
++ [Android - Animation 三角函数之美 | Gavin.Liu](http://gavinliu.cn/2015/03/26/Android-Animation-%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E4%B9%8B%E7%BE%8E/)<br>
+
 ### 2016-05-18<br>
 + [关于RecyclerView滑动速度和抛掷速度的控制和改变 - 简书](http://www.jianshu.com/p/f579999723ca)<br>
 
