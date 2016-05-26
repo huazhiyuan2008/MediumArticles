@@ -1,3 +1,6 @@
+### 2016-05-26<br>
++ [Slowing speed of Viewpager controller in android - Stack Overflow](http://stackoverflow.com/questions/8155257/slowing-speed-of-viewpager-controller-in-android/16355431#16355431)<br>
+
 ### 2016-05-24<br>
 + [android动画（一）Interpolator - 李海珍的个人页面 - 开源中国社区](http://my.oschina.net/banxi/blog/135633)<br>
 + [Android - Animation 三角函数之美 | Gavin.Liu](http://gavinliu.cn/2015/03/26/Android-Animation-%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E4%B9%8B%E7%BE%8E/)<br>
