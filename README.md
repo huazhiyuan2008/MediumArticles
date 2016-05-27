@@ -1,3 +1,6 @@
+### 2016-05-27<br>
++ [CymChad/BaseRecyclerViewAdapterHelper: Powerful and flexible RecyclerAdapter,www.recyclerview.org](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br>
+
 ### 2016-05-26<br>
 + [Slowing speed of Viewpager controller in android - Stack Overflow](http://stackoverflow.com/questions/8155257/slowing-speed-of-viewpager-controller-in-android/16355431#16355431)<br>
 
