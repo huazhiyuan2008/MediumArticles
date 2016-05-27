@@ -1,4 +1,5 @@
 ### 2016-05-27<br>
++ [一个很赞的RecyclerView Adapter辅助类 - 技术小黑屋](http://droidyue.com/blog/2016/05/09/baserecyclerviewadapterhelper/)<br>
 + [CymChad/BaseRecyclerViewAdapterHelper: Powerful and flexible RecyclerAdapter,www.recyclerview.org](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br>
 
 ### 2016-05-26<br>
