@@ -1,3 +1,6 @@
+### 2016-05-28<br>
++ [Ghost 桌面版 APP 正式发布，能同时管理多个 Ghost 博客 | Ghost中文网](http://www.ghostchina.com/ghost-zhuo-mian-ban-app-geng-xin-neng-gou-tong-shi-guan-li-duo-ge-ghost-bo-ke/)<br>
+
 ### 2016-05-27<br>
 + [一个很赞的RecyclerView Adapter辅助类 - 技术小黑屋](http://droidyue.com/blog/2016/05/09/baserecyclerviewadapterhelper/)<br>
 + [CymChad/BaseRecyclerViewAdapterHelper: Powerful and flexible RecyclerAdapter,www.recyclerview.org](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br>
