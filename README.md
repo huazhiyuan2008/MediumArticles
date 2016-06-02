@@ -1,3 +1,6 @@
+### 2016-06-02<br>
++ [深入浅出Android打包](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667374595&idx=1&sn=96fe214204da55caa3e583039352f57c&scene=1&srcid=0526z8qs53Na9zgREPwwnwDo&key=f5c31ae61525f82e5eef53cc0fef95064d607ec207c7c97b0ef3c414a5763622ab45f2a4ee73fef99080a2473c6ec7f1&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=JtFbOWzVz0QaHe5dN1epxdryv2HEDINGpaqXxeWcwGI%3D)<br>
+
 ### 2016-05-28<br>
 + [Ghost 桌面版 APP 正式发布，能同时管理多个 Ghost 博客 | Ghost中文网](http://www.ghostchina.com/ghost-zhuo-mian-ban-app-geng-xin-neng-gou-tong-shi-guan-li-duo-ge-ghost-bo-ke/)<br>
 
