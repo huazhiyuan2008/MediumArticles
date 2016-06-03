@@ -1,3 +1,6 @@
+### 2016-06-04<br>
++ [为什么选择PaaS - 简书](http://www.jianshu.com/p/5089a8536f97)<br>
+
 ### 2016-06-02<br>
 + [深入浅出Android打包](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667374595&idx=1&sn=96fe214204da55caa3e583039352f57c&scene=1&srcid=0526z8qs53Na9zgREPwwnwDo&key=f5c31ae61525f82e5eef53cc0fef95064d607ec207c7c97b0ef3c414a5763622ab45f2a4ee73fef99080a2473c6ec7f1&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=JtFbOWzVz0QaHe5dN1epxdryv2HEDINGpaqXxeWcwGI%3D)<br>
 
