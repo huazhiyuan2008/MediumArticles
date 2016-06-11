@@ -1,4 +1,5 @@
 ### 2016-06-11<br>
++ [安卓自定义View进阶: 画布操作 - 安卓 - 伯乐在线](http://android.jobbole.com/83351/)<br>
 + [安卓自定义View进阶：绘制基本形状 - 安卓 - 伯乐在线](http://android.jobbole.com/83342/)<br>
 
 ### 2016-06-04<br>
