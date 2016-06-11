@@ -1,3 +1,6 @@
+### 2016-06-11<br>
++ [安卓自定义View进阶：绘制基本形状 - 安卓 - 伯乐在线](http://android.jobbole.com/83342/)<br>
+
 ### 2016-06-04<br>
 + [为什么选择PaaS - 简书](http://www.jianshu.com/p/5089a8536f97)<br>
 
