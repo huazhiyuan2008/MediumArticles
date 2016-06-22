@@ -1,3 +1,6 @@
+### 2016-06-23<br>
++ [gulp + webpack 构建多页面前端项目 - Javascript之道 - SegmentFault](https://segmentfault.com/a/1190000003969465)<br>
+
 ### 2016-06-19<br>
 + [极致的 Hybrid：航旅离线包再加速！-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/2939?spm=5176.100239.yqblog1.10&utm_source=tuicool&utm_medium=referral)<br>
 
