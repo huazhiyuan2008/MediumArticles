@@ -1,3 +1,6 @@
+### 2016-06-24<br>
++ [Jackblog react redux版](http://jackhu.top/article/55cd8e00c6e998b817a930c7)<br>
+
 ### 2016-06-23<br>
 + [前端构建工具gulp入门教程 - 老婆婆 - SegmentFault](https://segmentfault.com/a/1190000000372547)<br>
 + [gulp + webpack 构建多页面前端项目 - Javascript之道 - SegmentFault](https://segmentfault.com/a/1190000003969465)<br>
