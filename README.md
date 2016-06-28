@@ -1,3 +1,6 @@
+### 2016-06-28<br>
++ [googlesamples/android-architecture: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.](https://github.com/googlesamples/android-architecture)<br>
+
 ### 2016-06-24<br>
 + [Jackblog react redux版](http://jackhu.top/article/55cd8e00c6e998b817a930c7)<br>
 
