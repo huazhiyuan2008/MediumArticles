@@ -1,3 +1,6 @@
+### 2016-06-29<br>
++ [为Hexo博客使用hexo-qiniu-sync插件[多图慎入] | 零度尘封](http://www.ldc4.cn/2016/03/09/HexoQiniu/)<br>
+
 ### 2016-06-28<br>
 + [googlesamples/android-architecture: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.](https://github.com/googlesamples/android-architecture)<br>
 
