@@ -1,3 +1,6 @@
+### 2016-07-03<br>
++ [Vue.js——60分钟快速入门 - keepfool - 博客园](http://www.cnblogs.com/keepfool/p/5619070.html)<br>
+
 ### 2016-06-29<br>
 + [android 通用圆角控件 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0420/4167.html)<br>
 + [为Hexo博客使用hexo-qiniu-sync插件[多图慎入] | 零度尘封](http://www.ldc4.cn/2016/03/09/HexoQiniu/)<br>
