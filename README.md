@@ -1,4 +1,5 @@
 ### 2016-07-05<br>
++ [Android jenkins | ValuesFeng](http://valuesfeng.github.io/2016/06/30/Android-jenkins/)<br>
 + [与 so 有关的一个长年大坑 - 无锋，不工 - 知乎专栏](https://zhuanlan.zhihu.com/p/21359984)<br>
 
 ### 2016-07-04<br>
