@@ -1,3 +1,6 @@
+### 2016-07-05<br>
++ [与 so 有关的一个长年大坑 - 无锋，不工 - 知乎专栏](https://zhuanlan.zhihu.com/p/21359984)<br>
+
 ### 2016-07-04<br>
 + [四种常见的 POST 提交数据方式 | JerryQu 的小站](https://imququ.com/post/four-ways-to-post-data-in-http.html)<br>
 
