@@ -1,3 +1,6 @@
+### 2016-07-04<br>
++ [四种常见的 POST 提交数据方式 | JerryQu 的小站](https://imququ.com/post/four-ways-to-post-data-in-http.html)<br>
+
 ### 2016-07-03<br>
 + [浅谈Hybrid技术的设计与实现 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/4921635.html#autoid-0-0-0)<br>
 + [Vue.js——60分钟快速入门 - keepfool - 博客园](http://www.cnblogs.com/keepfool/p/5619070.html)<br>
