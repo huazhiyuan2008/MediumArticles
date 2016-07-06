@@ -1,3 +1,6 @@
+### 2016-07-06<br>
++ [360 Android插件(DroidPlugin)无需安装运行APK的原理是什么，用途都有哪些？ - 知乎](https://www.zhihu.com/question/35138070)<br>
+
 ### 2016-07-05<br>
 + [Android Binder 完全解析（一）概述 - 简书](http://www.jianshu.com/p/c11333e77910)<br>
 + [Android jenkins | ValuesFeng](http://valuesfeng.github.io/2016/06/30/Android-jenkins/)<br>
