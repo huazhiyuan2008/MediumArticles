@@ -1,5 +1,6 @@
 ### 2016-07-15<br>
 + [Android App的设计架构：MVC,MVP,MVVM与架构经验谈 | 天码营 - 新一代技术学习服务平台](http://www.tianmaying.com/tutorial/AndroidMVC)<br>
++ [Android App的设计架构：MVC,MVP,MVVM与架构经验谈 | 天码营 - 新一代技术学习服务平台](http://www.tianmaying.com/tutorial/AndroidMVC)<br>
 + [Android Architecture — Android & Tech Publication — Medium](https://medium.com/android-news/android-architecture-2f12e1c7d4db#.22inool12)<br>
 
 ### 2016-07-10<br>
