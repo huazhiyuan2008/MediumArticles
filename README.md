@@ -1,3 +1,6 @@
+### 2016-07-15<br>
++ [Android Architecture — Android & Tech Publication — Medium](https://medium.com/android-news/android-architecture-2f12e1c7d4db#.22inool12)<br>
+
 ### 2016-07-10<br>
 + [blog/ReactNative增量升级方案.md at master · cnsnake11/blog](https://github.com/cnsnake11/blog/blob/master/ReactNative%E5%BC%80%E5%8F%91%E6%8C%87%E5%AF%BC/ReactNative%E5%A2%9E%E9%87%8F%E5%8D%87%E7%BA%A7%E6%96%B9%E6%A1%88.md)<br>
 
