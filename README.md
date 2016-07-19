@@ -1,3 +1,6 @@
+### 2016-07-19<br>
++ [一个炫字都不够？？！！！手把手带你打造3D自定义view - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0130/3928.html)<br>
+
 ### 2016-07-15<br>
 + [googlesamples/android-architecture at todo-mvp](https://github.com/googlesamples/android-architecture/tree/todo-mvp)<br>
 + [Android App的设计架构：MVC,MVP,MVVM与架构经验谈 | 天码营 - 新一代技术学习服务平台](http://www.tianmaying.com/tutorial/AndroidMVC)<br>
