@@ -1,3 +1,6 @@
+### 2016-07-21<br>
++ [Instant Run 工作原理及用法 - 掘金](http://gold.xitu.io/entry/572dbf5adf0eea00630f3b84)<br>
+
 ### 2016-07-20<br>
 + [Android 打造编译时注解解析框架 这只是一个开始 - Hongyang - 博客频道 - CSDN.NET](http://blog.csdn.net/lmj623565791/article/details/43452969)<br>
 
