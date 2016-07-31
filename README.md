@@ -1,4 +1,5 @@
 ### 2016-07-31<br>
++ [React Native for Android 发布独立安装包](http://www.race604.com/rn-android-standalone-apk/)<br>
 + [cundong/SmartAppUpdates: Android应用增量更新](https://github.com/cundong/SmartAppUpdates)<br>
 + [Java 单例真的写对了么?](http://www.race604.com/java-double-checked-singleton/)<br>
 
