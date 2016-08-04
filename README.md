@@ -1,3 +1,6 @@
+### 2016-08-04<br>
++ [不再彷徨：完全弄懂JavaScript中的this（译文总结） - 前端学习笔记 - SegmentFault](https://segmentfault.com/a/1190000006076637)<br>
+
 ### 2016-07-31<br>
 + [React Native for Android 发布独立安装包](http://www.race604.com/rn-android-standalone-apk/)<br>
 + [cundong/SmartAppUpdates: Android应用增量更新](https://github.com/cundong/SmartAppUpdates)<br>
