@@ -1,3 +1,6 @@
+### 2016-08-10<br>
++ [每个程序员都应该收藏的算法复杂度速查表 | 程序师](http://www.techug.com/bigo-cheatsheet)<br>
+
 ### 2016-08-04<br>
 + [不再彷徨：完全弄懂JavaScript中的this（译文总结） - 前端学习笔记 - SegmentFault](https://segmentfault.com/a/1190000006076637)<br>
 
