@@ -1,3 +1,9 @@
+### 2016-08-16<br>
++ [React Native 调研报告 - 厚积薄发 - 博客频道 - CSDN.NET](http://blog.csdn.net/lihuiqwertyuiop/article/details/45241909)<br>
+
+### 2016-08-15<br>
++ [来，我们谈谈React Native | Rey's Blog](http://reygreen1.github.io/2015/04/12/about-react-native/)<br>
+
 ### 2016-08-10<br>
 + [每个程序员都应该收藏的算法复杂度速查表 | 程序师](http://www.techug.com/bigo-cheatsheet)<br>
 
