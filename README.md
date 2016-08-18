@@ -1,3 +1,6 @@
+### 2016-08-19<br>
++ [Android应用开发性能优化完全分析 - 工匠若水 - 博客频道 - CSDN.NET](http://blog.csdn.net/yanbober/article/details/48394201)<br>
+
 ### 2016-08-18<br>
 + [React-Native系列Android——Native与Javascript通信原理（一） - MegatronKings的博客 -一九八网络科技V客学院-IT技术博客](http://blog.inet198.cn/?megatronkings/article/details/51114278)<br>
 
