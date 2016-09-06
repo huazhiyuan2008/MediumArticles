@@ -1,3 +1,6 @@
+### 2016-09-07<br>
++ [View垂直滚动,类似于跑马灯 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0722/4520.html)<br>
+
 ### 2016-08-25<br>
 + [Android端外推送到底有多烦？](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261350&idx=1&sn=6cea730ef5a144ac243f07019fb43076&scene=4%23wechat_redirect)<br>
 
