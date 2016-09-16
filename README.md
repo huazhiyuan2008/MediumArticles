@@ -1,3 +1,6 @@
+### 2016-09-16<br>
++ [深入理解共享元素变换（Shared Element Transition）-上 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0201/2394.html)<br>
+
 ### 2016-09-09<br>
 + [Exynap](http://exynap.com/)<br>
 
