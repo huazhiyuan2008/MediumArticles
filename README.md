@@ -1,3 +1,6 @@
+### 2016-09-18<br>
++ [Android 不规则图像填充 小玩着色游戏 - Hongyang - 博客频道 - CSDN.NET](http://blog.csdn.net/lmj623565791/article/details/45788433)<br>
+
 ### 2016-09-16<br>
 + [深入理解共享元素变换（Shared Element Transition）-上 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0201/2394.html)<br>
 
