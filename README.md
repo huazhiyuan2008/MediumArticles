@@ -1,3 +1,6 @@
+### 2016-09-20<br>
++ [【Android】 自定义View那点事（二）Xfermode篇 - Yu的Android开发之路 - SegmentFault](https://segmentfault.com/a/1190000006753544)<br>
+
 ### 2016-09-18<br>
 + [如何为drawable着色 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0824/3356.html)<br>
 + [Activity和Fragment Transition介绍 - 泡在网上的日子](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0113/2310.html)<br>
