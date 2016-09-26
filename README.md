@@ -1,3 +1,6 @@
+### 2016-09-26<br>
++ [RecyclerView中ViewHolder重用机制理解(解决图片错乱和闪烁问题) - 苦逼程序员的笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/xyq046463/article/details/51800095)<br>
+
 ### 2016-09-20<br>
 + [【Android】 自定义View那点事（二）Xfermode篇 - Yu的Android开发之路 - SegmentFault](https://segmentfault.com/a/1190000006753544)<br>
 
