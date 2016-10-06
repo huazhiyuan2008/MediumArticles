@@ -1,3 +1,6 @@
+### 2016-10-06<br>
++ [深扒魅族MX6镜头索尼IMX386，真的那么牛？_数码_腾讯网](http://digi.tech.qq.com/a/20160720/029506.htm)<br>
+
 ### 2016-09-26<br>
 + [Android内存泄漏查找和解决 - 苦逼程序员的笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/xyq046463/article/details/51769728)<br>
 + [RecyclerView中ViewHolder重用机制理解(解决图片错乱和闪烁问题) - 苦逼程序员的笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/xyq046463/article/details/51800095)<br>
