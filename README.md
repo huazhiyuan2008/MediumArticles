@@ -1,3 +1,6 @@
+### 2016-10-10<br>
++ [老司机教你 “飙” EventBus 3 - Powered by Bugly!](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=938)<br>
+
 ### 2016-10-06<br>
 + [深扒魅族MX6镜头索尼IMX386，真的那么牛？_数码_腾讯网](http://digi.tech.qq.com/a/20160720/029506.htm)<br>
 
