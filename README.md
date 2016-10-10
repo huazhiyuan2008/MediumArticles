@@ -1,3 +1,6 @@
+### 2016-10-11<br>
++ [EventBus 3.0 源代码分析 | Skykai](http://skykai521.github.io/2016/02/20/EventBus-3-0%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)<br>
+
 ### 2016-10-10<br>
 + [老司机教你 “飙” EventBus 3 - Powered by Bugly!](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=938)<br>
 
