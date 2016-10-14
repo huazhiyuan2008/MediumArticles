@@ -1,3 +1,6 @@
+### 2016-10-14<br>
++ [Java 动态代理机制分析及扩展，第 1 部分](http://www.ibm.com/developerworks/cn/java/j-lo-proxy1/)<br>
+
 ### 2016-10-13<br>
 + [从零开始打造一个Android 3D立体旋转容器 - Mr_immortalZ的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/mr_immortalz/article/details/51918560)<br>
 
