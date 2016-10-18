@@ -1,3 +1,6 @@
+### 2016-10-18<br>
++ [当我们谈论锁，我们谈什么 - 文章 - 伯乐在线](http://blog.jobbole.com/106582/)<br>
+
 ### 2016-10-14<br>
 + [Java 动态代理机制分析及扩展，第 1 部分](http://www.ibm.com/developerworks/cn/java/j-lo-proxy1/)<br>
 
