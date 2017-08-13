@@ -1,3 +1,8 @@
+### 2017-08-13<br>
++ [“站在10年研发路上，眺望前端未来”：读后感 | 折腾范儿の味精](http://awhisper.github.io/2016/06/16/%E5%89%8D%E7%AB%AF10%E5%B9%B4%E8%AF%BB%E5%90%8E%E6%84%9F/)<br>
++ [扯淡：这一周感觉经历了一次技术爆炸 - 简书](http://www.jianshu.com/p/b6cc628b928a)<br>
++ [动态界面：DSL&布局引擎 - 简书](http://www.jianshu.com/p/e6af4da50b41)<br>
+
 ### 2017-06-13<br>
 + [浅谈Instan Run中的热替换 | HalfStackDeveloper](https://halfstackdeveloper.github.io/2016/08/10/%E6%B5%85%E8%B0%88Instan-Run%E4%B8%AD%E7%9A%84%E7%83%AD%E6%9B%BF%E6%8D%A2/)<br>
 + [Android App包瘦身优化实践 -](http://tech.meituan.com/android-shrink-overall-solution.html)<br>
