@@ -1,3 +1,16 @@
+### 2017-09-29<br>
++ [网易严选App感受Weex开发（已完结） - willspace - SegmentFault](https://segmentfault.com/a/1190000011027225)<br>
+
+### 2017-09-25<br>
++ [2017 Android插件化框架总结](https://mp.weixin.qq.com/s?__biz=MzIwMzYwMTk1NA==&mid=2247486927&idx=1&sn=29e7439c220387f34df232f04ab283ac)<br>
+
+### 2017-09-14<br>
++ [FFmpeg总结（十三）用ffmpeg基于nginx实现直播功能，不用第三方SDK，自研推流拉流 - 逆流的鱼yuiop - CSDN博客](http://blog.csdn.net/hejjunlin/article/details/71976574)<br>
++ [React Native运行原理解析 - xiangzhihong8的专栏 - CSDN博客](http://blog.csdn.net/xiangzhihong8/article/details/52623852)<br>
++ [《20分钟理解React Native For Android原理》作者：DosLin 来自大搜车技术团队博客](https://blog.souche.com/react-native-source-code-analysis/)<br>
++ [React Native Android 源码框架浅析（主流程及 Java 与 JS 双边通信） - 工匠若水 - CSDN博客](http://blog.csdn.net/yanbober/article/details/53157456)<br>
++ [其实没那么复杂！探究react-native通信机制 | zjutkz's blog](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)<br>
+
 ### 2017-09-06<br>
 + [Android-UI 开源框架 Tangram 模型分析 - Coding 博客](https://blog.coding.net/blog/tangram-analysis)<br>
 + [《直播疑难杂症排查》之二：播放卡顿](https://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652192941&idx=1&sn=42d4aa5fadfbc98aece72e5ad322e44e&scene=19#wechat_redirect)<br>
