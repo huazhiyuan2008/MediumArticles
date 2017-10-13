@@ -1,4 +1,5 @@
 ### 2017-10-13<br>
++ [Android 5.0(Lollipop)中的SurfaceTexture，TextureView, SurfaceView和GLSurfaceView - CSDN博客](http://blog.csdn.net/jinzhuojun/article/details/44062175)<br>
 + [StatusBarUtil 状态栏工具类（实现沉浸式状态栏/变色状态栏）](https://jaeger.itscoder.com/android/2016/03/27/statusbar-util.html)<br>
 
 ### 2017-09-29<br>
