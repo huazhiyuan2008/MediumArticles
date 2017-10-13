@@ -1,3 +1,6 @@
+### 2017-10-13<br>
++ [StatusBarUtil 状态栏工具类（实现沉浸式状态栏/变色状态栏）](https://jaeger.itscoder.com/android/2016/03/27/statusbar-util.html)<br>
+
 ### 2017-09-29<br>
 + [网易严选App感受Weex开发（已完结） - willspace - SegmentFault](https://segmentfault.com/a/1190000011027225)<br>
 
