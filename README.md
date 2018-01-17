@@ -1,3 +1,39 @@
+### 2018-01-15<br>
++ [Binder学习指南 | Weishu's Notes](http://weishu.me/2016/01/12/binder-index-for-newer/)<br>
+
+### 2018-01-04<br>
++ [轻松入门直播相关技术 带你从0搭建直播系统](https://mp.weixin.qq.com/s/-GMchAP9WUrOK4WTDHjoMg)<br>
+
+### 2018-01-02<br>
++ [Android Profiler in Android Studio 3.0 | Android Studio](https://developer.android.com/studio/preview/features/android-profiler.html?utm_source=android-studio)<br>
+
+### 2017-12-26<br>
++ [alibaba/Tangram-Android: Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android.](https://github.com/alibaba/tangram-android)<br>
++ [luojilab/DDComponentForAndroid: 一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能](https://github.com/luojilab/DDComponentForAndroid)<br>
+
+### 2017-11-30<br>
++ [Android 增量编译方案总结 | fenglincanyi | Blog](https://fenglincanyi.github.io/2017/03/18/Android%20%E5%A2%9E%E9%87%8F%E7%BC%96%E8%AF%91%E6%96%B9%E6%A1%88%E6%80%BB%E7%BB%93/)<br>
++ [Weex SDK Android 源码解析](https://zhuanlan.zhihu.com/p/25326775)<br>
++ [LayoutInflater效率分析及源码跟踪 - CSDN博客](http://blog.csdn.net/nupt123456789/article/details/50980884)<br>
++ [nuptboyzhb/AndroidInstantRun: Android Instant Run原理分析](https://github.com/nuptboyzhb/AndroidInstantRun)<br>
+
+### 2017-11-14<br>
++ [Android开发人员不得不收集的代码(持续更新中) | Blankj's Blog](https://blankj.com/2016/07/31/android-utils-code/)<br>
+
+### 2017-11-06<br>
++ [腾讯副总裁曾宇：谈谈腾讯的技术价值观与技术人才修炼_IT新闻_博客园](https://news.cnblogs.com/n/581544)<br>
++ [7 天打造前端性能监控系统 - FEX](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)<br>
+
+### 2017-11-02<br>
++ [网络延迟是怎样产生的？ - 知乎](https://www.zhihu.com/question/48899344)<br>
+
+### 2017-10-27<br>
++ [Android中直播视频技术探究之---基础知识大纲介绍](https://mp.weixin.qq.com/s?__biz=MzIzNDA3MDgwNA==&mid=2649229998&idx=1&sn=14273a35bd61543f3c86ac6dcbf60e92&scene=21#wechat_redirect)<br>
++ [H5直播起航 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/10/09/HTML5-SopCast/index.html)<br>
+
+### 2017-10-16<br>
++ [分享一些自己的学习过程和学习方法 | 代码家](https://daimajia.com/2016/09/23/share-my-exp)<br>
+
 ### 2017-10-13<br>
 + [Android 5.0(Lollipop)中的SurfaceTexture，TextureView, SurfaceView和GLSurfaceView - CSDN博客](http://blog.csdn.net/jinzhuojun/article/details/44062175)<br>
 + [StatusBarUtil 状态栏工具类（实现沉浸式状态栏/变色状态栏）](https://jaeger.itscoder.com/android/2016/03/27/statusbar-util.html)<br>
