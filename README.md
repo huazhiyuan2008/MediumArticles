@@ -1,3 +1,108 @@
+### 2018-08-10<br>
++ [Android 性能优化：使用 TraceView 找到卡顿的元凶 - CSDN博客](https://blog.csdn.net/u011240877/article/details/54347396)<br>
++ [javascript模板引擎和实现原理](http://www.pchou.info/javascript/2014/03/13/javascript-template-engine.html)<br>
+
+### 2018-08-02<br>
++ [Android Binder——APP->framework(mRemote的前世今生) - 简书](https://www.jianshu.com/p/72bc48d59f0e)<br>
++ [Android Binder——framework->native（transact->onT... - 简书](https://www.jianshu.com/p/824db350dce6)<br>
+
+### 2018-07-31<br>
++ [Android WebView启动Chromium渲染引擎的过程分析 - CSDN博客](https://blog.csdn.net/luoshengyang/article/details/53237189)<br>
++ [onAttachedToWindow和onDetachedFromWindow调用时机源码解析 - CSDN博客](https://blog.csdn.net/hty1053240123/article/details/76507265)<br>
++ [Android 5.1 Webview 内存泄漏新场景](https://coolpers.github.io/webview/memory/leak/2015/07/16/android-5.1-webview-memory-leak.html)<br>
+
+### 2018-07-30<br>
++ [如何监听JS变量的变化 | DaraW | Code is Poetry](https://blog.daraw.cn/2016/08/17/how-to-monitor-changes-of-js-variable/)<br>
++ [JavaScript 进阶之深入理解数据双向绑定 - 匠心博客 - SegmentFault 思否](https://segmentfault.com/a/1190000010456158)<br>
++ [【星霜荏苒】 - 程序员如何在技术浪潮的更迭中保持较高的成长速度 ？ - 简书](https://www.jianshu.com/p/d5ec6150e4ed)<br>
++ [Weex 中别具匠心的 JS Framework](https://halfrost.com/weex_js_framework/)<br>
+
+### 2018-07-25<br>
++ [Android 带你彻底理解 Window 和 WindowManager - CSDN博客](https://blog.csdn.net/yhaolpz/article/details/68936932)<br>
++ [Android 带你彻底理解 Window 和 WindowManager - CSDN博客](https://blog.csdn.net/yhaolpz/article/details/68936932)<br>
+
+### 2018-07-24<br>
++ [Android View 深度分析requestLayout、invalidate与postInvalidate - CSDN博客](https://blog.csdn.net/a553181867/article/details/51583060)<br>
++ [自定义LayoutManager简明教程 - 简书](https://www.jianshu.com/p/e0f9fd169cde)<br>
+
+### 2018-07-23<br>
++ [Android消息机制（一）：概述设计架构 - 简书](https://www.jianshu.com/p/8656bebc27cb)<br>
+
+### 2018-07-06<br>
++ [HTTP 缓存  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)<br>
+
+### 2018-07-02<br>
++ [你不知道的 DOMContentLoaded](https://zhuanlan.zhihu.com/p/25876048)<br>
+
+### 2018-06-29<br>
++ [页面白屏与瀑布流分析方法 | Taobao FED | 淘宝前端团队](http://taobaofed.org/blog/2015/12/02/waterfall-analyze/)<br>
++ [前端性能优化之性能测试 - 掘金](https://juejin.im/post/5a41abb35188252a3d383eb8)<br>
++ [绕过安卓SSL验证证书的四种方式 - CSDN博客](https://blog.csdn.net/omnispace/article/details/79247809)<br>
+
+### 2018-06-28<br>
++ [从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！ - 程序生涯 - SegmentFault 思否](https://segmentfault.com/a/1190000013662126)<br>
++ [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理 - 程序生涯 - SegmentFault 思否](https://segmentfault.com/a/1190000012925872)<br>
+
+### 2018-06-27<br>
++ [移动 H5 首屏秒开优化方案探讨 « bang’s blog](https://blog.cnbang.net/tech/3477/)<br>
+
+### 2018-06-13<br>
++ [微信小程序探究 - yolynn](http://yolynn.com/2017/01/03/weapp/)<br>
+
+### 2018-05-24<br>
++ [](https://mp.weixin.qq.com/s/lL7yyQ3ardYjxXKgKf8uaQ)<br>
++ [QQ空间面向移动时代Hybrid架构设计 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/citian3094/note/456536#qq%E7%A9%BA%E9%97%B4%E9%9D%A2%E5%90%91%E7%A7%BB%E5%8A%A8%E6%97%B6%E4%BB%A3hybrid%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)<br>
+
+### 2018-05-23<br>
++ [](https://mp.weixin.qq.com/s?__biz=MzIxNjc0ODExMA==&mid=2247484311&idx=1&sn=1fe0416bed4137dd45c6e9c153bb14f4&chksm=97851ab6a0f293a0cde28ff6d1091b2232e1758e9845a05549d01c62f412def742985d642630&scene=21#wechat_redirect)<br>
+
+### 2018-05-21<br>
++ [Android Glide源码解析 | Frodo's Blog](http://frodoking.github.io/2015/10/10/android-glide/)<br>
+
+### 2018-05-17<br>
++ [QQ空间面向移动时代Hybrid架构设计 - CSDN博客](https://blog.csdn.net/offbye/article/details/52369329)<br>
+
+### 2018-05-16<br>
++ [Android AOP编程的四种策略探讨：Aspectj，cglib+dexmaker，Javassist，epic+dexposed | Windy's Journal](https://windysha.github.io/2018/01/18/Android-AOP%E7%BC%96%E7%A8%8B%E7%9A%84%E5%9B%9B%E7%A7%8D%E7%AD%96%E7%95%A5%E6%8E%A2%E8%AE%A8%EF%BC%9AAspectj%EF%BC%8Ccglib-dexmaker%EF%BC%8CJavassist%EF%BC%8Cepic-dexposed/)<br>
++ [一起脱去小程序的外套和内衣：微信小程序架构解析 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1004537)<br>
+
+### 2018-05-13<br>
++ [深度理解Android InstantRun原理以及源码分析 - 简书](https://www.jianshu.com/p/780eb85260b3)<br>
++ [深度理解Android InstantRun原理以及源码分析-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/58517)<br>
++ [Instant Run: How Does it Work?! – Google Developers – Medium](https://medium.com/google-developers/instant-run-how-does-it-work-294a1633367f)<br>
++ [nuptboyzhb/AndroidInstantRun: Android Instant Run原理分析](https://github.com/nuptboyzhb/AndroidInstantRun)<br>
++ [Instant Run原理解析 - 简书](https://www.jianshu.com/p/0400fb58d086)<br>
+
+### 2018-05-11<br>
++ [Tinker - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/dodola/note/554061#tinker)<br>
+
+### 2018-05-10<br>
++ [Android热补丁之Tinker原理解析 | w4lle's Notes](http://w4lle.com/2016/12/16/tinker/)<br>
+
+### 2018-05-09<br>
++ [并发编程(4)ConcurrentHashMap源码分析 - 简书](https://www.jianshu.com/p/efa4a589d6e3)<br>
+
+### 2018-05-08<br>
++ [Android无埋点数据收集SDK关键技术 - 简书](https://www.jianshu.com/p/b5ffe845fe2d)<br>
+
+### 2018-05-03<br>
++ [Android事件分发机制源码解析 | Allen's Zone](http://allenfeng.com/2017/02/22/android-touch-event-transfer-mechanism/)<br>
++ [第二章 IPC机制 - CSDN博客](https://blog.csdn.net/a296777513/article/details/54729298)<br>
+
+### 2018-04-26<br>
++ [New Tab](chrome-extension://laookkfknpbbblfpciffpaejjkokdgca/dashboard.html)<br>
++ [微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/6Q818XA5FaHd7jJMFBG60w)<br>
+
+### 2018-04-24<br>
++ [VirtualAPK源码解析 | Qirong Yu's Blog](http://yuqirong.me/2017/11/12/VirtualAPK%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)<br>
++ [startService启动过程分析 - Gityuan博客 | 袁辉辉博客](http://gityuan.com/2016/03/06/start-service/)<br>
+
+### 2018-04-22<br>
++ [VirtualAPK源码解析 | Qirong Yu's Blog](http://yuqirong.me/2017/11/12/VirtualAPK%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/)<br>
+
+### 2018-04-16<br>
++ [浅析Android插件化 - 掘金](https://juejin.im/post/5ac5d015f265da239a600a72)<br>
+
 ### 2018-04-14<br>
 + [微店 Android 插件化实践](https://mp.weixin.qq.com/s/UCxCKLDtNvYAh7oHjCtaQw)<br>
 
